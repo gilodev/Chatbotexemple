@@ -1,0 +1,23 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "firebase": "^9.0.1",
+    "firebase-admin": "^9.11.1",
+    "node-fetch": "^3.0.0",
+    "node-wit": "^6.0.1",
+    "request": "^2.88.2",
+    "requestify": "^0.2.5"
+  }
+}
